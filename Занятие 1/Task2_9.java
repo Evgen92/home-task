@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class Task2_9 {
+
+//    public static void main(String[] args) {
+//        Scanner masScan = new Scanner(System.in);
+//        System.out.println("Введите размер массива при помощи клавиатуры: ");
+//        int size = masScan.nextInt();
+//        int[] mas = new int[size];
+//        for (int i = 0; i < mas.length; i++) {
+//            mas[i] = (int) (Math.random() * 10);
+//            System.out.print(mas[i] + " ");
+//        }
+//
+//        System.out.println();
+//        int max = mas[0];
+//        int min = mas[0];
+//        int maxIndex = 0;
+//        int minIndex = 0;
+//        for (int i = 0; i < mas.length; i++) {
+//            if (mas[i] > max) {
+//                max = mas[i];
+//                maxIndex = i;
+//            }
+//            if (mas[i] < min) {
+//                min = mas[i];
+//                minIndex = i;
+//            }
+//        }
+//        System.out.println("Индекс максимального значения: " + maxIndex + "\nИндекс минимального значения: " + minIndex);
+//    }
+}
+
