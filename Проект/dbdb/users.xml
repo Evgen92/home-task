@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+	<User id="1">
+		<login>truhanzhenya</login>
+		<password>truhan</password>
+		<name>Evgen</name>
+		<gender>Male</gender>
+		<message>Hello</message>
+	</User>
+	<User id="2">
+		<login>fant1969</login>
+		<password>log</password>
+		<name>Olga</name>
+		<gender>Female</gender>
+		<message>Hi</message>
+	</User>
+	<User id="3">
+		<login>gleb102</login>
+		<password>pass</password>
+		<name>Gleb</name>
+		<gender>Male</gender>
+		<message>Nice to meet you</message>
+	</User>
+</Users>
